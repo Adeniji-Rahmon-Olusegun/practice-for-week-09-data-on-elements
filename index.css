@@ -7,3 +7,18 @@ li {
 }
 
 /* Your code here */
+li[data-type="dairy"] {
+    background-color: blueviolet;
+}
+
+li[data-type="canned"] {
+    background-color: aqua;
+}
+
+li[data-type="frozen"] {
+    background-color: brown;
+}
+
+li[data-type="meats"] {
+    background-color: red;
+}

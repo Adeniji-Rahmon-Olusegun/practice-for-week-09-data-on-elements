@@ -26,4 +26,5 @@ to you:
 - For each type, style the `<li>` a different background color in __index.css__.
   Recall that CSS supports attribute selectors using square brackets.
 
+
 [starter]: https://github.com/appacademy/practice-for-week-09-data-on-elements
